@@ -1,5 +1,5 @@
-train: /kaggle/input/testdata/train_data/images/train # train images (relative to 'path') 128 images
-val: /kaggle/input/testdata/train_data/images/val # val images (relative to 'path') 128 images
+train: /kaggle/input/traindata/train_data/images/train # train images (relative to 'path') 128 images
+val: /kaggle/input/traindata/train_data/images/val # val images (relative to 'path') 128 images
 test: # test images (optional)
 
 # Classes
